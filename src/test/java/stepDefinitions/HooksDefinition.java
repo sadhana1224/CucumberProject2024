@@ -22,7 +22,7 @@ public class HooksDefinition {
     }
     @When("user fills all the details")
     public void user_fills_all_the_details() {
-        System.out.println("user filled the details");
+        System.out.println("user filled the entire details");
 
     }
     @Then("user is added in the account")
